@@ -18,3 +18,6 @@ a.then(data=> console.log(data),
 console.log("7"))
 
 console.log("6");
+
+// Done
+
