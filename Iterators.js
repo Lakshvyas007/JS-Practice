@@ -26,3 +26,11 @@ function fruitsIterator(values) {
 }
 
 console.log("My array is ", Arr);
+
+// Using The Iterator
+const fruits =  fruitsIterator(Arr);
+console.log(fruits.next().value);
+console.log(fruits.next().value);
+console.log(fruits.next().value);
+console.log(fruits.next().value);
+console.log(fruits.next().value); 
